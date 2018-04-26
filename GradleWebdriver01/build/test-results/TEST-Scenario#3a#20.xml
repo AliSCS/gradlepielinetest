@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Scenario: " tests="2" skipped="1" failures="0" errors="0" timestamp="2018-04-26T14:18:40" hostname="Personal" time="0.006">
+<testsuite name="Scenario: " tests="2" skipped="1" failures="0" errors="0" timestamp="2018-04-26T15:32:11" hostname="Personal" time="0.012">
   <properties/>
-  <testcase name="Given i go to googlels" classname="Scenario: " time="0.0">
+  <testcase name="Given i go to googlels" classname="Scenario: " time="0.001">
     <skipped/>
   </testcase>
-  <testcase name="classMethod" classname="Scenario: " time="0.012"/>
+  <testcase name="classMethod" classname="Scenario: " time="0.021"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -10,7 +10,8 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        plugin = {"pretty", "html:target/cucumber"},
+        plugin = {"pretty", "html:target/cucumber", "junit:build/test-results/TEST-cucumber.xml"},
+//        junit ={"--filename-compatible-names"},
         features = "src/test/resources/features"
 )
 public class CukeRunnerTest {
