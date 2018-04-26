@@ -16,14 +16,11 @@ formatter.scenario({
 });
 formatter.step({
   "line": 4,
-  "name": "i go to google",
+  "name": "i go to googlels",
   "keyword": "Given "
 });
-formatter.match({
-  "location": "FirstAttemptTest.i_go_to_google()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 19074382310,
-  "status": "passed"
+  "status": "undefined"
 });
 });

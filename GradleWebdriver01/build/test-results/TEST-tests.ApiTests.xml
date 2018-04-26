@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.ApiTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-04-25T19:54:09" hostname="Personal" time="11.638">
+<testsuite name="tests.ApiTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-04-26T14:18:22" hostname="Personal" time="16.859">
   <properties/>
-  <testcase name="getFilms" classname="tests.ApiTests" time="11.638"/>
+  <testcase name="getFilms" classname="tests.ApiTests" time="16.859"/>
   <system-out><![CDATA[Luke Skywalker
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
